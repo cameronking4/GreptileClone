@@ -1,0 +1,17 @@
+{
+  "id": "msg_id",
+  "type": "mixed",
+  "text": "do something like this",
+  "author": {
+    "id": "author_id",
+    "firstName": "Thomas",
+    "lastName": "Henry"
+  },
+  "createdAt": 0,
+  "status": "seen",
+  "uri": "https://i.imgur.com/wmz5ZBk.png",
+  "name": "ui",
+  "size": 746809,
+  "width": 3584,
+  "height": 2240
+}

@@ -1,0 +1,12 @@
+{
+  "id": "msg_id",
+  "type": "text",
+  "text": "dealer's choice! something simple and pretty...",
+  "author": {
+    "id": "author_id",
+    "firstName": "Thomas",
+    "lastName": "Henry"
+  },
+  "createdAt": 0,
+  "status": "seen"
+}
